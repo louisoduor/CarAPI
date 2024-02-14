@@ -1,0 +1,228 @@
+[
+    {
+      "make": "Toyota",
+      "years": [
+        {
+          "year": 2022,
+          "models": [
+            {
+              "name": "Toyota Crown Royal",
+              "model": "Sedan",
+              "horsepower": 265,
+              "reasonToBuy": "Combination of luxury and performance",
+              "engine": "Turbocharged 2.5L 1JZ-GTE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url": "https://global.toyota/pages/news/images/2022/07/crown/20220715_crown_14_s.jpg"
+            },
+            {
+              "name": "Toyota Crown Athlete",
+              "model": "Sedan",
+              "horsepower": 301,
+              "reasonToBuy": "Sporty and dynamic driving experience",
+              "engine": "Turbocharged 3.5L 2GR-FSE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url": "https://cdn.motor1.com/images/mgl/JvQ8Q/s6/2021-toyota-crown-update.webp"
+            },
+            {
+              "name": "Toyota Crown Comfort",
+              "model": "Sedan",
+              "horsepower": 201,
+              "reasonToBuy": "Comfortable and reliable",
+              "engine": "Turbocharged 2.5L 1JZ-GTE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url": "https://global.toyota/pages/news/images/2015/10/01/1330/rendition/crwa1510_23_W610_H407.jpg"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "models": [
+            {
+              "name": "Toyota Crown Majesta",
+              "model": "Sedan",
+              "horsepower": 329,
+              "reasonToBuy": "Ultimate luxury with advanced features",
+              "engine": "Turbocharged 3.5L 2GR-FSE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url": "https://www.japclassifieds.com/wp-content/uploads/sites/4/2023/02/toyota-crown-majesta-2022-import-ulez-compliant-266143529730-ebay.jpg"
+            },
+            {
+              "name": "Toyota Crown Comfort",
+              "model": "Sedan",
+              "horsepower": 201,
+              "reasonToBuy": "Comfortable and reliable",
+              "engine": "Turbocharged 2.5L 1JZ-GTE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url": "https://i0.wp.com/www.vismart.co.ke/wp-content/uploads/2022/01/Toyota-Crown.jpg?fit=836%2C497&ssl=1"
+            },
+            {
+              "name": "Toyota Crown Royal",
+              "model": "Sedan",
+              "horsepower": 265,
+              "reasonToBuy": "Combination of luxury and performance",
+              "engine": "Turbocharged 2.5L 1JZ-GTE",
+              "fuelType": "Gasoline",
+              "manufacturer": "Toyota",
+              "image-url":"https://d2hucwwplm5rxi.cloudfront.net/wp-content/uploads/2023/08/04101938/Toyota-crown-history-_-Cover-4-8-23.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "make": "Mitsubishi",
+      "years": [
+        {
+          "year": 2022,
+          "models": [
+            {
+              "name": "Mitsubishi Outlander",
+              "model": "SUV",
+              "horsepower": 224,
+              "reasonToBuy": "Family-friendly and spacious",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://www.cnet.com/a/img/resize/41d98dd682f97c67e2f3c9357f40156fe196cf81/hub/2021/02/16/48828a86-1ff9-4f07-9f4b-b659402252ca/ogi-mitsu.jpg?auto=webp&fit=crop&height=675&width=1200"
+            },
+            {
+              "name": "Mitsubishi Eclipse Cross",
+              "model": "SUV",
+              "horsepower": 152,
+              "reasonToBuy": "Stylish design and fuel-efficient",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://media.ed.edmunds-media.com/mitsubishi/eclipse-cross/2022/oem/2022_mitsubishi_eclipse-cross_4dr-suv_sel_fq_oem_1_1600.jpg"
+            },
+            {
+              "name": "Mitsubishi Pajero",
+              "model": "SUV",
+              "horsepower": 260,
+              "reasonToBuy": "Off-road capability and rugged design",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_cg_hero_large/v1/editorial/2022-Mitsubishi-Pajero-Sport-SUV-1001x565-1.jpg"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "models": [
+            {
+              "name": "Mitsubishi Mirage",
+              "model": "Hatchback",
+              "horsepower": 78,
+              "reasonToBuy": "Compact and economical",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://journal.classiccars.com/media/2021/01/Photographer-3-1280x771.jpeg"
+            },
+            {
+              "name": "Mitsubishi Outlander",
+              "model": "SUV",
+              "horsepower": 224,
+              "reasonToBuy": "Family-friendly and spacious",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://media.ed.edmunds-media.com/mitsubishi/outlander-sport/2021/oem/2021_mitsubishi_outlander-sport_4dr-suv_20-be_fq_oem_1_1600.jpg"
+            },
+            {
+              "name": "Mitsubishi Eclipse Cross",
+              "model": "SUV",
+              "horsepower": 152,
+              "reasonToBuy": "Stylish design and fuel-efficient",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Mitsubishi",
+              "image-url":"https://d15yvjwjqalz4d.cloudfront.net/wp-content/uploads/2021/11/2021-mitsubishi-eclipse-cross-sg-carbuyer-2-1.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "make": "Land Rover",
+      "years": [
+        {
+          "year": 2022,
+          "models": [
+            {
+              "name": "Land Rover Defender",
+              "model": "SUV",
+              "horsepower": 296,
+              "reasonToBuy": "Off-road prowess and modern features",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://www.cnet.com/a/img/resize/6b87368f5c2014e59e0c43edae2c6c3800ce3990/hub/2022/03/23/c7f11d52-8ad8-4b5e-9ac1-67d70b23f4cf/ogi1-2022-land-rover-defeder-v8-001.jpg?auto=webp&fit=crop&height=675&width=1200"
+            },
+            {
+              "name": "Land Rover Discovery",
+              "model": "SUV",
+              "horsepower": 335,
+              "reasonToBuy": "Luxury and versatile seating",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://www.completecar.ie/img/testdrives/11718_large.jpg"
+            },
+            {
+              "name": "Land Rover Range Rover",
+              "model": "SUV",
+              "horsepower": 398,
+              "reasonToBuy": "Iconic design and high-end features",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://hips.hearstapps.com/hmg-prod/images/2022-range-rover-evoque-117-1652283943.jpg?crop=0.690xw:0.633xh;0.282xw,0.367xh&resize=980:*"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "models": [
+            {
+              "name": "Land Rover Range Rover Sport",
+              "model": "SUV",
+              "horsepower": 355,
+              "reasonToBuy": "Dynamic performance and spacious interior",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://cdn.motor1.com/images/mgl/7JyQW/s1/land-rover-range-rover-sport-2021.jpg"
+            },
+            {
+              "name": "Land Rover Defender",
+              "model": "SUV",
+              "horsepower": 296,
+              "reasonToBuy": "Off-road prowess and modern features",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1626771768/autoexpress/2021/07/Land%20Rover%20Defender%20V8%202021%20-12.jpg"
+            },
+            {
+              "name": "Land Rover Discovery",
+              "model": "SUV",
+              "horsepower": 335,
+              "reasonToBuy": "Luxury and versatile seating",
+              "engine": "",
+              "fuelType": "Gasoline",
+              "manufacturer": "Land Rover",
+              "image-url":"https://viplease.com/wp-content/uploads/2021/06/2024LRS010001_2100_01.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
